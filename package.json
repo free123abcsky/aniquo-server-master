@@ -1,0 +1,28 @@
+{
+  "name": "aniquo-server",
+  "main": "app.js",
+  "author": "scarletsky",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "bcrypt": "^0.8.3",
+    "body-parser": "^1.12.3",
+    "compression": "^1.4.3",
+    "errorhandler": "^1.3.5",
+    "eventproxy": "^0.3.1",
+    "express": "~4.12.3",
+    "express-jwt": "~3.0.0",
+    "express-session": "^1.11.1",
+    "jsonwebtoken": "~5.0.0",
+    "mongoose": "^4.1.0",
+    "mongoose-paginate-pages": "^1.0.0",
+    "morgan": "^1.5.2",
+    "nodemailer": "^1.4.0",
+    "qn": "~1.0.1",
+    "request": "^2.60.0",
+    "wechat": "^2.0.1"
+  },
+  "devDependencies": {
+    "shelljs": "^0.3.0"
+  }
+}
